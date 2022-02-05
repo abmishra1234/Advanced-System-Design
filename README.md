@@ -5,7 +5,8 @@ How you can learn from the system which is developed in past by some of the grea
 In this area, as of now covering major paper for distributed system.
 
 
-Disclaimer:  The document shared here don't have any relation with my current organizational work.
+Disclaimer:  The document shared here don't have any relation with my current organizational work. 
+Also there is no intention for any commercial value of these documents.
 
 
 

@@ -12,7 +12,6 @@ Also there is no intention for any commercial value of these documents.
 
 Steps to be followed in System Design Interview:
 #systemdesign #thumbrule
-Sometime back , someone asked me to share thumb rule for proceeding in system design discussion, here are some standard rules 
 [Assuming discussion time #45min ]
 System Design, Distributed System discussion 
 Steps to be followed:
